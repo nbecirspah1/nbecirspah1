@@ -35,6 +35,6 @@
 <div align="center">
 <h2>🟩 My Contributions 🟩</h2>
 <br>
-<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tvoje_korisnicko_ime/tvoje_repozitorijum/output/github-contribution-grid-snake-dark.svg" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/tvoje_korisnicko_ime/tvoje_repozitorijum/output/dist/github-contribution-grid-snake-dark.svg" />
 <br/><br/><br/>
 </div>
